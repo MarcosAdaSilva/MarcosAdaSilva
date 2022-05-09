@@ -15,3 +15,5 @@
    <img aling="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </div>
+  
+  Construir projetos, software, progamas e soluções para resolver os preblemas do próximo, é uma forma de arte!
