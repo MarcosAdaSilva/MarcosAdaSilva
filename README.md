@@ -7,3 +7,9 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/marcos.antoniodasilva.5243)
 
 ![MarcosAdaSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAdaSilva&show_icons=true&theme=dracula)
+
+## Tecnologias que eu utilizo no momento!
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="html" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  
+</div>
