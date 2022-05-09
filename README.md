@@ -10,6 +10,5 @@
 
 ## Tecnologias que eu utilizo no momento!
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="html" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  
-</div>
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  </div>
