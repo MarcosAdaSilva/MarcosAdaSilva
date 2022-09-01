@@ -22,6 +22,5 @@
   </div><br/>
   
   Desenvolver projetos e soluções utilizando tecnologia para resolver os preblemas do mundo, também é uma forma de arte!
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ </div>
