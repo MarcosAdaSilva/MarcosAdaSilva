@@ -1,8 +1,7 @@
 ### Olá, eu sou o Marcos Antônio da Silva!😎 
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-antônio-da-silva-51b45b1a3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcos.antoniodasilva.5243)
@@ -10,6 +9,9 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/marcos.antoniodasilva.5243)
 
 ![MarcosAdaSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAdaSilva&show_icons=true&theme=dracula)
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu utilizo no momento!
 <div style="display: inline_block"><br/>
