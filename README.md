@@ -1,4 +1,4 @@
-### Olá, eu sou o Marcos Antônio da Silva!😎 
+### Olá, eu sou o Marcos Antônio da Silva, estudante de tecnologia e desenvolvedor front end!😎 
 
 
  
