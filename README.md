@@ -1,4 +1,4 @@
-## Olá, eu sou o Marcos Antônio da Silva, desenvolvedor front e back end!😎 
+## Olá, eu sou o Marcos Antônio da Silva, desenvolvedor Full Stack!😎 
 
 <div align="left">
  <a href="https://github.com/MarcosAdaSilva">
