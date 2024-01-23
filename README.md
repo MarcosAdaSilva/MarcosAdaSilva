@@ -34,6 +34,6 @@
    
   </div><br/>
   
-  Desenvolver projetos e soluções utilizando tecnologia para resolver os problemas do mundo, isso também é uma forma de fazer arte!
+  Desenvolver projetos e soluções utilizando tecnologia, também é uma forma de fazer arte!
  
  </div>
