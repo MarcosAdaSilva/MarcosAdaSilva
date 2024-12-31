@@ -28,6 +28,11 @@
  <img aling="center" alt="Marcos-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
  <img aling="center" alt="Marcos-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
  <img aling="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+ <img aling="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+ <img aling="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+ <img aling="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+          
           
  
   
