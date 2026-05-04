@@ -112,6 +112,10 @@
       <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"><br>
       MongoDB
     </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"><br>
+      Oracle
+    </td>
   </tr>
 </table>
 
