@@ -13,26 +13,105 @@
 
 ## 🚀 Tecnologias
 
+### 🎨 Frontend
 <table>
   <tr>
-    <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-    <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-    <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-    <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></td>
-    <td><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
-    <td><img height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"></td>
-    <td><img height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></td>
-    <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original-wordmark.svg"></td>
+    <td align="center">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+      HTML5
+    </td>
+    <td align="center">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+      CSS3
+    </td>
+    <td align="center">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br>
+      React
+    </td>
+    <td align="center">
+      <img height="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"><br>
+      Angular
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Backend
+<table>
+  <tr>
+    <td align="center">
+      <img height="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"><br>
+      Java
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"><br>
+      Spring
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"><br>
+      Quarkus
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"><br>
+      Kafka
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original-wordmark.svg"><br>
+      RabbitMQ
+    </td>
+  </tr>
+</table>
+
+---
+
+### ☁️ Cloud & DevOps
+<table>
+  <tr>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><br>
+      AWS
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"><br>
+      Docker
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg"><br>
+      Kubernetes
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"><br>
+      Jenkins
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original-wordmark.svg"><br>
+      Swagger
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗄️ Banco de Dados
+<table>
+  <tr>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"><br>
+      SQL Server
+    </td>
+    <td align="center">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"><br>
+      MongoDB
+    </td>
   </tr>
 </table>
 
